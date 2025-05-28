@@ -1,7 +1,3 @@
-Here's a **professional and advanced `README.md`** for your `AfroMsg` PHP SDK. It includes installation, usage, configuration, extensibility, testing, contribution guide, and license.
-
----
-
 ````markdown
 # AfroMsg - PHP SDK for Afromessage API
 
