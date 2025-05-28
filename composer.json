@@ -1,0 +1,29 @@
+{
+    "name": "yohacodes/afro-msg-php",
+    "description": "A modern, PSR-compliant PHP SDK for easily integrating with the Afromessage API. Includes support for verification, messaging, and more.",
+    "keywords": [
+        "afromessage",
+        "sms",
+        "php sdk",
+        "verification",
+        "messaging",
+        "api"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yohacode",
+            "email": "johnpro3269@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
