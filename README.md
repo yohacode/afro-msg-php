@@ -1,4 +1,3 @@
-````markdown
 # AfroMsg - PHP SDK for Afromessage API
 
 [![Latest Version](https://img.shields.io/packagist/v/yohacode/afromsg.svg?style=flat-square)](https://packagist.org/packages/yohacode/afromsg)
