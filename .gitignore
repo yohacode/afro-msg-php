@@ -1,0 +1,34 @@
+.github
+./vendor
+./node_modules
+# Ignore all files in the build directory
+/build
+# Ignore all files in the dist directory
+/dist
+/tests
+# Ignore all files in the coverage directory
+/coverage
+# Ignore all files in the logs directory
+/logs
+# Ignore all files in the temp directory
+/temp
+# Ignore all files in the cache directory
+/cache
+.idea
+# Ignore all log files
+*.log
+# Ignore all temporary files
+*.tmp
+# Ignore all backup files
+*.bak
+# Ignore all cache files
+*.cache 
+# Ignore all compiled files
+*.o
+# Ignore all binary files
+*.bin
+# Ignore all documentation files
+*.docx
+# Ignore all configuration files
+*.config
+# Ignore all test files
