@@ -11,8 +11,17 @@ use App\Contracts\AppContainerInterface;
 
 class AppContainer implements AppContainerInterface
 {
-    public function getInstances(): void
-    {
-        $n =  12;
-    }
+    /**
+     * Properties store instance and datas
+     */
+
+     public function getInstances(): void
+     {
+        // 
+     }
+
+     public function getSerialize(): void
+     {
+        // 
+     }
 }

@@ -3,7 +3,7 @@
         'name' => 'yohacodes/afro-msg-php',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '9eca80d30f8a8a495b1815180ff9fbd795d93a98',
+        'reference' => 'd76d4a3f790555c8da124f155ae80bc76162e505',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -361,6 +361,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'symfony/var-dumper' => array(
+            'pretty_version' => 'v7.3.0',
+            'version' => '7.3.0.0',
+            'reference' => '548f6760c54197b1084e1e5c71f6d9d523f2f78e',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/var-dumper',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'theseer/tokenizer' => array(
             'pretty_version' => '1.2.3',
             'version' => '1.2.3.0',
@@ -382,7 +391,7 @@
         'yohacodes/afro-msg-php' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '9eca80d30f8a8a495b1815180ff9fbd795d93a98',
+            'reference' => 'd76d4a3f790555c8da124f155ae80bc76162e505',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

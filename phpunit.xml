@@ -13,10 +13,10 @@
          failOnWarning="true"
          colors="true"
          >
-    <!-- <coverage processUncoveredFiles="false" includePaths="src"/> -->
-
     <!-- <coverage>
-    <directory suffix=".php">src</directory>
+        <directories>
+            <directory suffix=".php">src</directory>
+        </directories>
     </coverage> -->
 
 

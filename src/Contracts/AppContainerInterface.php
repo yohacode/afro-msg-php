@@ -11,4 +11,5 @@ interface AppContainerInterface
      * 
      */
     public function getInstances(): void;
+    public function getSerialize(): void;
 }
