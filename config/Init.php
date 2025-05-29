@@ -1,0 +1,9 @@
+<?php
+
+/**
+ * AfroMsg class <>
+ */
+
+return [
+    
+];
