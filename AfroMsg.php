@@ -5,4 +5,7 @@
  */
 
 include_once __DIR__ . '/vendor/autoload.php';
-require_once 'config/Init.php';
+
+env_init(__DIR__);
+
+var_dump($_ENV);

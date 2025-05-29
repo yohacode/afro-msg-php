@@ -15,7 +15,8 @@
         "psr-4": {
             "App\\": "src/",
             "Test\\": "tests/"
-        }
+        },
+        "files": ["src/Support/Helpers.php"]
     },
     "authors": [
         {
