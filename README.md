@@ -161,7 +161,7 @@ For questions or support, please open an [issue](https://github.com/yohacode/afr
 
 ---
 
-> Crafted with ❤️ by [Your Name](https://github.com/yohacode)
+> Crafted with ❤️ by Yohannes Z. (https://github.com/yohacode)
 
 ```
 
