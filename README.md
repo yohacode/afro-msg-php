@@ -24,7 +24,7 @@
 Install the SDK using Composer:
 
 ```bash
-composer require yohacode/afromsg
+composer require yohacodes/afro-msg-php
 ````
 
 ---
