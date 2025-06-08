@@ -4,7 +4,7 @@
 [![Build Status](https://github.com/yohaqr/yohaqr/actions/workflows/php.yml/badge.svg)](https://github.com/yohacode/afro-msg-php/actions/workflows/php.yml)
 [![Total Downloads](http://img.shields.io/packagist/dt/yohacode/afro-msg-php.svg)](https://packagist.org/packages/yoha/qr)
 [![Monthly Downloads](http://img.shields.io/packagist/dm/yohacode/afro-msg-php.svg)](https://packagist.org/packages/yoha/qr)
-[![License](http://img.shields.io/packagist/l/yohacode/afro-msg-php.svg)](https://packagist.org/packages/yoha/qr)
+[![License](http://img.shields.io/packagist/l/yohacode/afro-msg-php.svg)](https://packagist.org/packages/yohacode/afro-msg-php)
 
 
 **AfroMsg** is a modern, extensible PHP SDK for integrating with the [Afromessage API](https://api.afromessage.com/). It supports token-based authentication, code verification, message sending, and is fully PSR-compliant. Ideal for Laravel and any PHP-based backend.
